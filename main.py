@@ -13,6 +13,10 @@ So this is how i want it to work:
         
         predict()
         what algorithm to use?
+        decision trees feel promisable for now this is just V1 though, we will do multiple iterations
+        write decision tree or use? -> write lmao :)
+        
+        24oct, maybe neural networks will work better
         
         training(n)
         for n repeat
